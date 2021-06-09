@@ -1,0 +1,1 @@
+export const API_URL = "https://boiling-reef-38533.herokuapp.com/api/v1/categorize";
